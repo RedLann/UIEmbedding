@@ -1,0 +1,2 @@
+include ':app', ':embedded-ui'
+rootProject.name='UI Embedding'
